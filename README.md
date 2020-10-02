@@ -1,5 +1,9 @@
 # decimal -> hex
 
+Probably easier to just use one of these:
+
+https://stackoverflow.com/questions/378829/convert-decimal-to-hexadecimal-in-unix-shell-script
+
     usage: hex NUMBER
 
     examples:
